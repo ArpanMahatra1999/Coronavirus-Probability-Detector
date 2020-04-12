@@ -1,5 +1,4 @@
 # Coronavirus-Probability-Detector
-
 Python code for coronavirus probability detector using data analysis and training machine learning model of logistic regression.
 
 Tools used:
